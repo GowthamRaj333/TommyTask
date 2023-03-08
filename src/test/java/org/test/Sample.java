@@ -9,5 +9,9 @@ public class Sample {
 	private void subtract() {
 		System.out.println("sub");
 	}
+	
+	private void divide() {
+		System.out.println("div");
+	}
 
 }
