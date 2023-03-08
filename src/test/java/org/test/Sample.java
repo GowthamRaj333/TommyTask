@@ -13,5 +13,10 @@ public class Sample {
 	private void mul() {
 		System.out.println("mul");
 	}
+	
+	private void divide() {
+	System.out.println("div");
+
+	}
 
 }
